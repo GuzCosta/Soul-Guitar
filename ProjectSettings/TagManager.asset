@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - WinNote
+  - Path
+  - Music
+  - Loader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Interactable
+  - Player
+  - Triggers
+  - Activator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3414755995
+    locked: 0
+  - name: Foreground
+    uniqueID: 3075533901
+    locked: 0
+  - name: Player
+    uniqueID: 3370613409
+    locked: 0
+  - name: Activator
+    uniqueID: 3839907295
+    locked: 0
+  - name: Note
+    uniqueID: 1726698105
+    locked: 0
+  - name: battleSystem
+    uniqueID: 3569297527
+    locked: 0

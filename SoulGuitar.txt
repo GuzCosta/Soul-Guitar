@@ -1,0 +1,117 @@
+Soul Guitar
+
+STORY: Astro is a young guy that loves music.
+When he turned 15 years old his life changed forever.
+He received a guitar and a latter by mail.
+The letter said he inherited a guitar from a grand-uncle, which he has never heard of before;
+In the same day, the soul of an famous 80's rockstar -- his guitar;
+The "live Guitar" become his mentor on his journey and their relationship will be developing through the game;
+He took an oath to became a guitar legend from that day on;
+He took another oath to marry with Aurora, his Crush, when he become famous.
+He goes on an adventure learning new skills, meeting new friends/foes and NPCs while exploring new places.
+His dream is to became a Guitar Legend and for this he needs to beat all 10 Guitar Boss to collect all 10 Custom Pics and Beat all 5 Guitar Masters.
+At the beggining of his journey, after have learned the fudamentals of the gameplay, Astro invites his closer friend, called ___ to form a band with him
+After defeat the first Guitar Boss, Aurora (his crush) which was whatching his performance, give him a nice hug and a kiss on the chicks.
+ 
+GUITAR BATTLE
+
+PLAYER WINS
+
+	Wins Who Gets More Points In The End Of The Battle;
+	To Win You Need To Perform Better (Hit More Notes) Than Your Opponent;
+
+PLAYER LOSES
+
+	The Player Loses When The RockMeter Needle Reaches The Red Area;
+	Miss Notes will Drop The RockMeter Needle And Make The Player Lose The Game;
+	
+When The Player win Against A RandomGuitarplayerNPC:
+
+	Ganha XP;
+	Ganha $$;
+	Ganha Visibility;
+	Ganha Licks;
+
+When The Player Wins Against A GuitarplayerBoss
+
+	Ganha XP * 2;
+	Ganha $$ * 2;
+	Ganha Visibility * 4;
+	Ganha Licks * 2 + 1 HotLick;
+	Ganha A Brand New Guitar;
+	Ganha RockStar Badge (A Custom Pick);
+
+UI INTERFACES
+
+	INVENTORY
+		Collectables
+
+COLLECTABLES
+
+	Guitar Legends Cards
+
+		John Frusciante
+		Jimi Hendrix
+		Paul Guilbert
+		Steve Vai
+		Slash
+		David Gilmour
+		Frank Zappa
+		Eric Clapton
+		Eddie Van Halen
+		Carlos Satana
+		Jimmi Page
+		Kurt Cobain
+		Tom Morello
+		Dave Grohl
+		Mike Einziger
+		Jim Root
+		Mick Thomson
+		James Hetfield
+		Kirk Hammett
+		James ‘Munky’ Shaffer
+		Brian ‘Head’ Welch
+		Marcao
+		Kurt Cobain
+James Hetfield
+		GuzCosta
+		
+		
+		 
+	Theory Music Related (Scale Patterns, etc)
+
+ITENS
+
+	Strings
+		Brand
+		Durability
+		Calibre
+		Price
+	Guitars
+		brands
+		modules (captadores)
+		
+	
+
+-------------------------------------------------------------
+LEGENDA
+
+// Experience Points related to player's level;
+XP
+
+// Money To Buy Itens In The Game;
+$$
+
+// Get Known Progression = neighborhoods, city, state, country, aroud the world;
+// Give access to different areas of the map;
+Visibility Bar
+
+// A Small Pattern "Phrase" Of Notes Played On Different Tempo And Speed;
+Licks
+
+//A Brand New Guitar lol;
+A Brand New Guitar;
+
+// A badge That Proves You Won A Guitar Battle against a Guitar Boss; 
+RockStar Badge;
+

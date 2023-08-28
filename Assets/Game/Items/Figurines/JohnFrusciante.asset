@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6165e8b432b2f740b47136a46d6fa46, type: 3}
+  m_Name: JohnFrusciante
+  m_EditorClassIdentifier: 
+  name: John Frusciante
+  description: Was born in LA and became a guitar legend being part of the Red Hot
+    Chilli Peppers
+  icon: {fileID: 21300000, guid: 32c7276dc4b50e24d802977b2deacd20, type: 3}

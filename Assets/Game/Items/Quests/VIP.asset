@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 802dac631ecbb69438f6299b02cb807f, type: 3}
+  m_Name: VIP
+  m_EditorClassIdentifier: 
+  name: VIP
+  description: 
+  startDialogue:
+    lines:
+    - I can't believe, I lost my guitar!
+    - 'Can you help me to find it? '
+  inProgressDialogue:
+    lines:
+    - Did you find it?
+  completeDialogue:
+    lines:
+    - OMG! Thank you so much!!
+    - Take this super rare John Frusciante's figurine.
+    - This figurine will give you access to VIP areas.
+  requiredItem: {fileID: 11400000, guid: 312a23ce7dd0de5448b977f916d6cb8f, type: 2}
+  rewardItem: {fileID: 11400000, guid: 1ac37e640e5e5674d9102cfc79fc08d7, type: 2}
